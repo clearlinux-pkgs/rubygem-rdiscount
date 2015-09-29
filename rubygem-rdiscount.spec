@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rdiscount
 Version  : 2.1.8
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rdiscount-2.1.8.gem
 Source0  : https://rubygems.org/downloads/rdiscount-2.1.8.gem
 Summary  : No detailed summary available
